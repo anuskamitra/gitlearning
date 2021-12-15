@@ -1,2 +1,6 @@
 Hlw Disha .
+<<<<<<< HEAD
 I love you darrling .
+=======
+how r you
+>>>>>>> main
