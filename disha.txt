@@ -1,6 +1,3 @@
 Hlw Disha .
-<<<<<<< HEAD
 I love you darrling .
-=======
-how r you
->>>>>>> main
+it is my disha branch
